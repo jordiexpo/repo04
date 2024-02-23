@@ -4,3 +4,4 @@ Como hemos hecho en los otros dos ejercicios anteriores, primeramente iremos a n
 ## 4.2
 Ahora creamos un archivo .md para ir guardando nuestro progreso y explicando todos los pasos para poder guardar ese archivo y añadirlo a nuestro repositorio tanto de manera local como de manera remota.  
 ## 4.3
+Ahora crearemos una nueva rama que se llamara jordi2322024, para eso usaremos en nuestro terminal el comando git branch nombreyfecha
